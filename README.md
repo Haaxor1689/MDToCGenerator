@@ -16,8 +16,8 @@ Execatubla takes one argument, the name of markdown file you want to generate ta
 Input `example.md`:
 
 ```md
-#Title A
-##Title B
+# Title A
+## Title B
 
 Text Text Text Text Text Text 
 
@@ -25,7 +25,7 @@ Text Text Text Text Text Text
 
 Text Text Text Text Text Text Text Text
 
-#Title
+# Title
 ```
 
 Output `example_ToC.md`:
