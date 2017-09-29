@@ -1,16 +1,17 @@
-#MDToCGenerator
-##Description
+# MDToCGenerator
+
+## Description
 
 Simple QT console application for generating table of contents for mardown files.
 
-##Usage
+## Usage
 Execatubla takes one argument, the name of markdown file you want to generate table of contents for. Output is new markdown file named ${filename}_ToC.md.
 
 ```bash
 ./generateToC file.md
 ```
 
-##Example
+## Example
 
 Input `example.md`:
 
